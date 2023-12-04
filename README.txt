@@ -1,5 +1,5 @@
 Python analysis scripts for data produced by a Michelson interferometer. Images or videos of interference fringes are analysed using several different methods, with the ultimate goal of
-detecting the phase shift introduced by a phase-modulating device to the second signal.
+detecting the phase shift introduced by a phase-modulating device.
 
 ### Peak Fitting ###
 
