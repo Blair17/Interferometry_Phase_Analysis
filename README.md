@@ -20,8 +20,8 @@ The code is sectioned into two different methods of analysis; one method focuses
 The position of the central peak of the slice is recorded, with the central peak positions being plotted and a Cumulative Distribution Function (CDF) being applied. The CDF allows the median 
 peak position to be found and possesses some benefits to a simple Gaussian/normal distribution and histogram: 
 
-    - When taking a mean, outliers at either extremity of the fit significantly affect the mean value; with a median, this is not the case
-    - The resolution is not determined by the bin size
+* When taking a mean, outliers at either extremity of the fit significantly affect the mean value; with a median, this is not the case
+* The resolution is not determined by the bin size
 
 ### Sin & Gabor fitting 
 To improve the accuracy, in this code a sin curve is fitted to the data, as opposed to tracking just the central peak. However, the sin fit allows for oscillations in the signal, but not 
