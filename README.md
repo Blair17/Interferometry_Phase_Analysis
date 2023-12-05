@@ -33,4 +33,4 @@ As a differing technique, this code analyses fringe images where the beam covers
 phase shifts to.
 
 ## Notes
-This repository is essentially a filestore for all current code that is in development for this type of analysis. 
+This repository is currently a filestore for all current code in development for this analysis. 
